@@ -6,24 +6,24 @@ Repo: beats
   filebeat/docs_1.3      13ac8f7  Docs: Fix path for beats-dir
   filebeat/docs_5.0      fa5b0f2  Add golang version for jenkins compatibility
   filebeat/docs_5.x      01b945b  Automatic merge from master to 5.x branch (#3210)
-  filebeat/docs_master   67d322e  Improve travis targets (#3223)
+  filebeat/docs_master   52532a6  Add tests for full config (#3236)
   libbeat/docs_1.0.1     890ae17  Docs: Fix path for beats-dir
   libbeat/docs_1.1       df036f1  Docs: Fix path for beats-dir
   libbeat/docs_1.2       4a8bd97  Docs: Fix path for beats-dir
   libbeat/docs_1.3       13ac8f7  Docs: Fix path for beats-dir
   libbeat/docs_5.0       fa5b0f2  Add golang version for jenkins compatibility
   libbeat/docs_5.x       01b945b  Automatic merge from master to 5.x branch (#3210)
-  libbeat/docs_master    67d322e  Improve travis targets (#3223)
+  libbeat/docs_master    52532a6  Add tests for full config (#3236)
   metricbeat/docs_5.0    fa5b0f2  Add golang version for jenkins compatibility
   metricbeat/docs_5.x    01b945b  Automatic merge from master to 5.x branch (#3210)
-  metricbeat/docs_master 67d322e  Improve travis targets (#3223)
+  metricbeat/docs_master 52532a6  Add tests for full config (#3236)
   packetbeat/docs_1.0.1  890ae17  Docs: Fix path for beats-dir
   packetbeat/docs_1.1    df036f1  Docs: Fix path for beats-dir
   packetbeat/docs_1.2    4a8bd97  Docs: Fix path for beats-dir
   packetbeat/docs_1.3    13ac8f7  Docs: Fix path for beats-dir
   packetbeat/docs_5.0    fa5b0f2  Add golang version for jenkins compatibility
   packetbeat/docs_5.x    01b945b  Automatic merge from master to 5.x branch (#3210)
-  packetbeat/docs_master 67d322e  Improve travis targets (#3223)
+  packetbeat/docs_master 52532a6  Add tests for full config (#3236)
   topbeat/docs_1.0.1     890ae17  Docs: Fix path for beats-dir
   topbeat/docs_1.1       df036f1  Docs: Fix path for beats-dir
   topbeat/docs_1.2       4a8bd97  Docs: Fix path for beats-dir
@@ -33,7 +33,7 @@ Repo: beats
   winlogbeat/docs_1.3    13ac8f7  Docs: Fix path for beats-dir
   winlogbeat/docs_5.0    fa5b0f2  Add golang version for jenkins compatibility
   winlogbeat/docs_5.x    01b945b  Automatic merge from master to 5.x branch (#3210)
-  winlogbeat/docs_master 67d322e  Improve travis targets (#3223)
+  winlogbeat/docs_master 52532a6  Add tests for full config (#3236)
 
 Repo: cloud
 --------------------------------------------------------------------------------

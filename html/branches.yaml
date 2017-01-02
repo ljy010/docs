@@ -6,24 +6,24 @@ beats:
   _filebeat/docs_1.3: 13ac8f7ed73441629c78df2a7036e2519dbfa13a
   _filebeat/docs_5.0: fa5b0f2acaa9460f97015f6104d67fa9adb8a4ed
   _filebeat/docs_5.x: 01b945b5e5e60a9ff6d536b891b621d5d5f79268
-  _filebeat/docs_master: 67d322e5c4e88a46a5609a0fadeb9581ba0b2c9b
+  _filebeat/docs_master: 52532a6ede303822a50d7aaea3a84ac034434f04
   _libbeat/docs_1.0.1: 890ae1748d462e37a5eef4f6493f801a557f4d3f
   _libbeat/docs_1.1: df036f1abccdadd3e778529732eac016453ac40d
   _libbeat/docs_1.2: 4a8bd970da23b44a6177b47d3c321d88b8a0d4d0
   _libbeat/docs_1.3: 13ac8f7ed73441629c78df2a7036e2519dbfa13a
   _libbeat/docs_5.0: fa5b0f2acaa9460f97015f6104d67fa9adb8a4ed
   _libbeat/docs_5.x: 01b945b5e5e60a9ff6d536b891b621d5d5f79268
-  _libbeat/docs_master: 67d322e5c4e88a46a5609a0fadeb9581ba0b2c9b
+  _libbeat/docs_master: 52532a6ede303822a50d7aaea3a84ac034434f04
   _metricbeat/docs_5.0: fa5b0f2acaa9460f97015f6104d67fa9adb8a4ed
   _metricbeat/docs_5.x: 01b945b5e5e60a9ff6d536b891b621d5d5f79268
-  _metricbeat/docs_master: 67d322e5c4e88a46a5609a0fadeb9581ba0b2c9b
+  _metricbeat/docs_master: 52532a6ede303822a50d7aaea3a84ac034434f04
   _packetbeat/docs_1.0.1: 890ae1748d462e37a5eef4f6493f801a557f4d3f
   _packetbeat/docs_1.1: df036f1abccdadd3e778529732eac016453ac40d
   _packetbeat/docs_1.2: 4a8bd970da23b44a6177b47d3c321d88b8a0d4d0
   _packetbeat/docs_1.3: 13ac8f7ed73441629c78df2a7036e2519dbfa13a
   _packetbeat/docs_5.0: fa5b0f2acaa9460f97015f6104d67fa9adb8a4ed
   _packetbeat/docs_5.x: 01b945b5e5e60a9ff6d536b891b621d5d5f79268
-  _packetbeat/docs_master: 67d322e5c4e88a46a5609a0fadeb9581ba0b2c9b
+  _packetbeat/docs_master: 52532a6ede303822a50d7aaea3a84ac034434f04
   _topbeat/docs_1.0.1: 890ae1748d462e37a5eef4f6493f801a557f4d3f
   _topbeat/docs_1.1: df036f1abccdadd3e778529732eac016453ac40d
   _topbeat/docs_1.2: 4a8bd970da23b44a6177b47d3c321d88b8a0d4d0
@@ -33,7 +33,7 @@ beats:
   _winlogbeat/docs_1.3: 13ac8f7ed73441629c78df2a7036e2519dbfa13a
   _winlogbeat/docs_5.0: fa5b0f2acaa9460f97015f6104d67fa9adb8a4ed
   _winlogbeat/docs_5.x: 01b945b5e5e60a9ff6d536b891b621d5d5f79268
-  _winlogbeat/docs_master: 67d322e5c4e88a46a5609a0fadeb9581ba0b2c9b
+  _winlogbeat/docs_master: 52532a6ede303822a50d7aaea3a84ac034434f04
 cloud:
   _docs/cloud-enterprise_1.0.0-alpha3: 88cc44358a7909657f507432e279bb128b457d5e
   _docs/saas_external: 361877342320dc5fea6ae46c3c401076a4fe68e7
